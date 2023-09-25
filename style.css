@@ -2,19 +2,19 @@ body{
     background-color: tomato;
 }
 
-h1 {
+#h1 {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-p {
+#p {
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.logo {
+#logo {
     display: flex;
     justify-content: space-around;
     align-items: center;
